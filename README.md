@@ -3,7 +3,7 @@
 # Introducción
 
 Para esta tarea se han realizado dos proyectos. El primero se llama peliculaspp-spa y es una SPA que utiliza React Router DOM para manejar las rutas en el cliente. 
-El segundo se llama movieappnext y es un proyecto creado con Next.js con App Router para manejar el enrutamiento y aprovechar el enrutamiento en el servidor.
+El segundo se llama movieappnext y es un proyecto creado con Next.js con App Router para manejar el enrutamiento y aprovechar la optimización en el servidor.
 
 # peliculasapp-spa
 
