@@ -1,0 +1,1 @@
+-- App React normal y con Next.js
