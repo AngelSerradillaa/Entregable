@@ -43,7 +43,7 @@ Esta vez se ha realizado el proyecto con TypeScript para cambiar con respecto al
 ## Enrutamiento
 
 Se ha utilizado el App Router que proporciona Next.js para manejar las rutas de la aplicación en el lado del cliente.
-
+```
 src
 ├── app/                        # Carpeta principal con App Router
 │   ├── layout.tsx             # Layout global (estructura general)
@@ -64,7 +64,7 @@ src
 │
 ├── types/                     # Tipos TypeScript
     └── types.ts
-
+```
 Aunque se haya realizado de formas diferentes, las dos rutas tienen la misma funcionalidad que en el otro proyecto, en el Home se muestra el grid con las películas más populares con paginación y buscador y cuando se hace click en una se muestran los detalles de esta en otra página con enrutamiento dinámico.
 
 ## Componentes
